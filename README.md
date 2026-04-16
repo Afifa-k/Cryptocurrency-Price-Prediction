@@ -1,2 +1,2 @@
 # Cryptocurrency-Price-Prediction
-Machine Learning project for predicting cryptocurrency prices
+Machine Learning project to predict cryptocurrency prices using historical data and regression models
