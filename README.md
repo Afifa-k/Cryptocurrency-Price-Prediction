@@ -32,12 +32,12 @@ Compared models using RMSE.
 ## 10. Results
 - Linear Regression RMSE: 6365.0
 - LSTM RMSE: 15782.9
-LSTM performs better for time-series prediction.
+LSTM captures the overall trend of the data, while Linear Regression shows high fluctuations. However, based on RMSE, Linear Regression performs better on this dataset.
 
 ## Run
 pip install -r requirements.txt  
 python main.py
 
 ##  Model Comparison
-
+The plot compares actual Bitcoin prices with predictions from Linear Regression and LSTM models. While Linear Regression fluctuates significantly, LSTM provides smoother trend-based predictions.
 ![Model Comparison](final_comparison.png)
