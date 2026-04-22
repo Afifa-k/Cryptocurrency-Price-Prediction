@@ -32,6 +32,7 @@ Compared models using RMSE.
 ## 10. Results
 - Linear Regression RMSE: 6365.0
 - LSTM RMSE: 15782.9
+
 LSTM captures the overall trend of the data, while Linear Regression shows high fluctuations. However, based on RMSE, Linear Regression performs better on this dataset.
 
 ## Run
