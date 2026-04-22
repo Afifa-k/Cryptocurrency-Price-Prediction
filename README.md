@@ -30,7 +30,9 @@ Models trained on historical price data.
 Compared models using RMSE.
 
 ## 10. Results
-LSTM performs better than Linear Regression.
+- Linear Regression RMSE: 6365.0
+- LSTM RMSE: 15782.9
+LSTM performs better for time-series prediction.
 
 ## Run
 pip install -r requirements.txt  
