@@ -35,3 +35,7 @@ LSTM performs better than Linear Regression.
 ## Run
 pip install -r requirements.txt  
 python main.py
+
+##  Model Comparison
+
+![Model Comparison](outputs/graphs/final_comparison.png)
