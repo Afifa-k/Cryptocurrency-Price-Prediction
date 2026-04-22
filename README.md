@@ -38,4 +38,4 @@ python main.py
 
 ##  Model Comparison
 
-![Model Comparison](outputs/graphs/final_comparison.png)
+![Model Comparison](final_comparison.png)
